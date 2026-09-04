@@ -1,0 +1,4 @@
+Un pull request es una solicitud que se hace en git hub, con el fin de fusionar
+los cambios que hice en una rama con otra, dirigida hacia el equipo de desarrollo
+con el fin de que revisen el código, comentarios por si hay que corregir algo
+ y que me aprueben la fusión.
